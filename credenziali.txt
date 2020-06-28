@@ -1,0 +1,2 @@
+# URI contiene nome utente e pw: https://data.heroku.com/datastores/b033e0ac-4d34-4f3f-bf8d-0052a5b6a45e#administration
+# URI = "postgres://orfgtaxeoqaqdy:8422a2e42a877a595da72dbca96aa6bf13c3835e5f15f057010e220521d2a57c@ec2-54-246-115-40.eu-west-1.compute.amazonaws.com:5432/d5870jh2uvurjp"
